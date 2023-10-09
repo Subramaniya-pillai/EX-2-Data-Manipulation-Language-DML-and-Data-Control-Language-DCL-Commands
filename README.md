@@ -15,6 +15,7 @@ UPDATE: It is used to update existing data within a table.<br>
 DELETE: It is used to delete records from a database table.<br>
 </div>
 
+
 ```
 DEVELOPED BY : SUBRAMANIYA PILLAI B
 REG NO : 212221230109
@@ -160,4 +161,4 @@ SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY desig
 ![Alt text](image13.png)
 
 ## Result:
-Thus,a manager database to execute DML queries using SQL is executed successfully.
+The execution of DML queries using SQL in a manager's database has been successful.
